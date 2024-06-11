@@ -1,4 +1,4 @@
-# Projeto Cadastro de Livros
+# Projeto Cadastro de Veículos
 
 Este é um projeto Django de cadastro de veículos com Python 3. Ele permite que você gerencie informações sobre veículos, incluindo modelo, marca e ano, entre outras.
 
