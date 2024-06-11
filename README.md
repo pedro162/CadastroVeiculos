@@ -12,7 +12,7 @@ Este é um projeto Django de cadastro de veículos com Python 3. Ele permite que
 ## Instalação
 
 1. Clone o repositório:
-   git clone https://github.com/pedro162/CadastroVeiculos.git
+   git clone https://github.com/pedro162/CadastroVeiculosProject.git
 
 2. Instale as dependências:
    pip install -r requirements.txt
@@ -28,7 +28,7 @@ Este é um projeto Django de cadastro de veículos com Python 3. Ele permite que
 
 ### Listagem de veículos
 
-![Listagem de veículos](./LivrariaProject/Resources/Images/home_screen_veicle_project.png)
+![Listagem de veículos](./CadastroVeiculosProject/Resources/Images/home_screen_veicle_project.png)
 
 - Exibe uma lista de todos os veículos cadastrados.
 - Permite visualizar detalhes de cada veículo.
@@ -36,21 +36,21 @@ Este é um projeto Django de cadastro de veículos com Python 3. Ele permite que
 
 ### Cadastro de veículo
 
-![Cadastro de veículo](./LivrariaProject/Resources/Images/create_update_screen_veicle_project.png)
+![Cadastro de veículo](./CadastroVeiculosProject/Resources/Images/create_update_screen_veicle_project.png)
 
 - Permite adicionar novos veículos ao sistema.
 - Formulário com campos para inserir modelo, marca e ano do veículo.
 
 ### Atualização de veículo
 
-![Atualização de veículo](./LivrariaProject/Resources/Images/create_update_screen_veicle_project.png)
+![Atualização de veículo](./CadastroVeiculosProject/Resources/Images/create_update_screen_veicle_project.png)
 
 - Permite editar informações de veículos existentes.
 - Formulário pré-preenchido com os detalhes do veículo selecionado.
 
 ### Excluisão de veículo
 
-![Edição de veículo](./LivrariaProject/Resources/Images/delete_screen_veicle_project.png)
+![Edição de veículo](./CadastroVeiculosProject/Resources/Images/delete_screen_veicle_project.png)
 
 - Permite excluir um veículo existente.
 - Fornece detalhes do veículo selecionado.
